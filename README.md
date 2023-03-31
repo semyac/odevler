@@ -12,3 +12,6 @@ En yaygın kullanılan Pytest dekoratörleri;
 @pytest.mark.xfail: Bir testin başarısız olması beklenen durumlarda kullanılır. Örneğin, bir testin bir hata döndürmesi bekleniyorsa, bu testi @pytest.mark.xfail ile işaretleyebiliriz.
 
 @pytest.mark.timeout: Bir testin belirli bir zaman sınırı içinde tamamlanmasını sağlar. Örneğin, bir testin 5 saniye içinde tamamlanması gerekiyorsa, @pytest.mark.timeout(5) kullanarak bu sınırı belirleyebiliriz.
+
+
+![testekranı](https://user-images.githubusercontent.com/120689945/229106050-0378b851-3743-4df8-b02e-13395a5cc237.png)
